@@ -154,3 +154,55 @@ GOOD LUCK
 // const markHigherBMI = BMIMark > BMIJohn;
 
 // console.log(BMIMark, BMIJohn, markHigherBMI);
+
+
+´´´´´````````'''
+
+// let firstName = null;
+// console.log(typeof firstName);
+
+// /////string , number, boolean, undefined, null
+
+// ////var let const
+
+// var age = 29; /////variable declared
+
+// var age = 30; ////variable redeclare
+
+// age = 31; /////assign new value
+
+// let age1 = 29;
+
+// age = 31;
+
+// const age2 = 20;
+
+// ////////////////////////////////
+
+// let age3 = 2026-1995;
+
+// console.log(age3);
+
+// /////////////////// strings and template literals
+
+// let age4 = 25;
+// let firstName1 = 'ricardo ';
+
+// console.log('my age is ' + age4 + ' my name is ' + firstName1 );
+
+// //////template literals the sign is `` backticks
+// console.log(my age is ${age4} my name is ${firstName1});
+
+// ////////////////////if else statement
+
+// let age5 = 17;
+
+// if(age5>=18){
+// console.log(you can drive);
+// }else{
+// console.log(you can not drive);
+// }
+
+// if( age5>=18){
+// console.log(you are adult);
+
